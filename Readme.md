@@ -1,0 +1,3 @@
+##Olá, esse projeto é um jogo da memória em C com aplicações de parâmetros nas funções e estrutura de dados
+
+Esse jogo possui os níveis fácil, médio e díficil, porém por enquanto apenas o nível fácil está completo, o jogo consiste em virar cartas e tentar encontrar pares. No começo do jogo, as cartas aparecem por 10 segundos para o jogador memoriza-las e em seguida elas ficam escondidas, conforme as tentativas vão passando o jogador recebe bônus, seja porque está ganhando ou porque está precisando de uma ajudinha, bom jogo!
