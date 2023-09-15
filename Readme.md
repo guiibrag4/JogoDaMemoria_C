@@ -1,9 +1,8 @@
 <div class="container">
-    <img src="https://github.com/guiibrag4/JogoDaMemoria_C/assets/131495236/8bf7a203-eee7-4ca4-b4b9-9899de91490e" width="450px" height="280px" />
-    <img src="https://github.com/guiibrag4/JogoDaMemoria_C/assets/131495236/09b9170b-caac-473a-9cc4-b27ae123b76f" width="450px" height="280px" />
-    <img src="![Uploading image.png…]()
-" width="450px" height="280px" />
-    <img src="" width="450px" height="280px" />
+    <img src="https://github.com/guiibrag4/JogoDaMemoria_C/assets/131495236/8bf7a203-eee7-4ca4-b4b9-9899de91490e" width="440px" height="280px" />
+    <img src="https://github.com/guiibrag4/JogoDaMemoria_C/assets/131495236/09b9170b-caac-473a-9cc4-b27ae123b76f" width="440px" height="280px" />
+    <img src="https://github.com/guiibrag4/JogoDaMemoria_C/assets/131495236/95089bab-fa2f-4692-a592-af4b3a1c23c1" width="440px" height="280px" />
+    <img src="https://github.com/guiibrag4/JogoDaMemoria_C/assets/131495236/7d5fd087-2994-44ac-b1b0-0b3bc3fedfe8" width="440px" height="280px" />
 </div>
 
 #
