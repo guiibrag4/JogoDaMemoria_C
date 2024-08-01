@@ -1,3 +1,6 @@
+Olá, este projeto é um jogo da memória em C com aplicações de parâmetros em funções e estruturas de dados
+
+Este jogo possui a dificuldade fácil, média e difícil, mas por enquanto, apenas o nível fácil está completo. O objetivo do jogo é revelar cartas e procurar combinações entre elas, formando pares. No início do jogo, as cartas aparecem por 10 segundos para o jogador memorizá-las e depois elas são escondidas. Conforme as tentativas passam, o jogador recebe um bônus, seja porque está ganhando ou porque precisa de uma ajudinha. Bom jogo!!
 <table>
   <tr>
     <td align="center">
@@ -17,9 +20,3 @@
   </tr>
 </table>
 
-
-
-#
-Hello, this project is a memory game in C with applications of parameters in functions and data structures
-
-This game has easy, medium and difficult levels, but for now only the easy level is complete. The objective of the game is to reveal cards and look for matches between them, forming pairs. At the beginning of the game, the cards appear for 10 seconds for the player to memorize them, and then they turn around and are hidden. As the attempts pass, the player receives a bonus, either because they are winning or because they need a little help. Good game!
