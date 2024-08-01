@@ -20,3 +20,15 @@ Este jogo possui a dificuldade fácil, média e difícil, mas por enquanto, apen
   </tr>
 </table>
 
+## Instalação
+
+1. Clone o repositório:
+
+    ```sh
+    git clone https://github.com/guiibrag4/MemoryGame.git
+    cd MemoryGame
+    ```
+
+2. Utilize um compilador da linguagem, como dev c++
+
+3. Após isso, é só compilar e executar.
